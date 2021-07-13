@@ -10,7 +10,7 @@ Local installations of the [.NET SDK](https://dotnet.microsoft.com/download).
 ```c#
 dotnet run
 ```
-On Platform for API Development (Postman, for example), you can use: 
+On Platform for API Development ([Postman](https://www.postman.com/downloads/), for example), you can use: 
 ```c ​
 // Used to creat a new record.
 POST {string Name, bool IsGlutenFree}
