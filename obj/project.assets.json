@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Desktop\\trabalho\\.net\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\API-Web-using-ASP.NET-Core\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\guilh\\Desktop\\trabalho\\.net\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\API-Web-using-ASP.NET-Core\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Desktop\\trabalho\\.net\\ContosoPizza\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\API-Web-using-ASP.NET-Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
